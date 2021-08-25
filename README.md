@@ -1,3 +1,5 @@
-# Infographics Created for Eau Claire County
+# Links to Dashboards and Infographics
 
-https://www.co.eau-claire.wi.us/home/showpublisheddocument/37934/637369028807770000
+## Infographics
+[Diversion Infographic](https://www.co.eau-claire.wi.us/home/showpublisheddocument/37934/637369028807770000)
+[Drunk Driving Diversion Infographic](https://www.co.eau-claire.wi.us/home/showpublisheddocument/37938/637369029038570000)
